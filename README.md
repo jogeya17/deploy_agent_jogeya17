@@ -1,29 +1,20 @@
-.. Attendance Tracker Workspace
+    >>Attendance Tracker Workspace
+    >>Project Overview
+This project sets up a workspace for tracking attendance efficiently.
+    >>Key Features
+-Creates a new workspace directory
+-Clones all required project resources
+-Sets up helper files and a reports folder
+-Configures attendance warning and failure thresholds
+-Verifies that Python is installed
+-Checks the integrity of the workspace
+-Saves progress automatically if interrupted (Ctrl + C)
+-Cleans up temporary files after execution
+  >>Usage Instructions
+-Run the script
+-Follow the on-screen prompts
 
-This project sets up a workspace designed for tracking attendance.
+  >>Additional Resource
 
->> Features
+YouTube link provided for guidance
 
-.Initializes a new workspace directory
-
-.Clones the necessary project files
-
-.Creates helper files along with a reports folder
-
-.Sets attendance thresholds for warnings and failures
-
-.Confirms that Python is installed
-
-.Validates the workspace setup
-
-.Saves progress automatically if interrupted (Ctrl+C)
-
-.Removes temporary files after execution
-
->> Usage
-
-.Run the script and follow the on-screen instructions.
-
-Start tracking attendance easily!
-
-YouTube Link

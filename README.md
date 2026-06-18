@@ -1,2 +1,1 @@
-attendance_*
-~*
+how are you 

@@ -22,13 +22,15 @@ Saves progress automatically if interrupted (Ctrl + C)
 
 Cleans up temporary files after execution
 
-  >>Usage Instructions
+    Usage Instructions
 
 Run the script
 
 Follow the on-screen prompts
 
-  >>Additional Resource
+    Additional Resource
+
+https://youtu.be/8NDbus4eunE?si=1aCv8_lXgBrq8WzV
 
 YouTube link provided for guidance
 
